@@ -1,0 +1,47 @@
+.title {
+  border-left: 6px solid #f2007f;
+  padding: 0.4em 0.8em;
+}
+
+.title-hiviya {
+  border-left: 6px solid #A89D92;
+  padding: 0.4em 0.8em;
+}
+
+.color-hiviya {
+  color: #A89D92;
+}
+
+h3.station {
+  line-height: 10px;
+  text-align: center;
+}
+
+h2 {
+  line-height: 25px;
+}
+
+.pp_description {
+  margin: 20px 0;
+}
+
+a.pp_close {
+  top: 70%;
+}
+
+.pp_social {
+  width: 500px;
+}
+
+.pp_social .facebook {
+  width: 75px;
+  overflow: visible;
+}
+
+.movie a {
+  opacity: 0.4;
+}
+
+.movie a:hover {
+  opacity: 1.0;
+}
